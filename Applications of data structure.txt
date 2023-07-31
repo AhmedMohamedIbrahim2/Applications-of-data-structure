@@ -1,0 +1,11 @@
+1-Data structures applications:
+
+1: Organizing data in computer memory.
+2: Representation of information in databases.
+3: Data processing algorithms such as texts.
+4: Data analysis algorithms such as data miner.
+5: Search data like a search engine.
+6: Data generation algorithms such as a random number generator.
+7: Compression and decompression algorithms same as those of zip.
+8: Encryption and decryption algorithms such as those adopted in the security system.
+9: Programs that manage files and folders such as a file manager.
